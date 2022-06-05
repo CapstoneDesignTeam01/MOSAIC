@@ -79,4 +79,4 @@ MOSAIC
 
 - [박은규](https://github.com/Eungyu-dev): 카메라 필터링 기능, 화면 필터링 기능, GUI 담당
 
-- [박현민](https://github.com/qkrgusals98): 개인정보판별 알고리즘, 데이터베이스 담당
+- [박현민](https://github.com/qkrgusals98): 개인정보판별 알고리즘, 데이터베이스 담당 
