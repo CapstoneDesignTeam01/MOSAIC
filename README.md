@@ -73,7 +73,7 @@ MOSAIC
 ## Developers
 아주대학교 사이버보안학과 소속
 
-- [김소정](https://github.com/ssoL2): 업로드 보안 中 메타데이터 소거 기능, 데이터베이스 담당
+- [김소정](https://github.com/ssoL2): 업로드 보안 中 메타데이터 소거 기능, 데이터베이스 담당 
 
 - [김만준](https://github.com/MANJUNKIM): 업로드 보안 中 문서 보안 기능, 업로드 탐지 기능 담당
 
