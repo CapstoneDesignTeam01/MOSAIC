@@ -14,6 +14,10 @@
 
 - 업로드 보안: 업로드 이벤트를 탐지하여 중간에 워드, 한글 등의 문서 파일, 사진, 동영상 등의 미디어 파일을 가로채 개인정보를 식별, 마스킹 처리하거나 메타데이터를 소거하여 업로드를 대신 수행합니다.
 
+아주대학교 2022-1 SOFTCON 캡스톤 디자인 부문에서 우수상을 수상하였습니다. [링크](https://softcon.ajou.ac.kr/community/notice_view.asp?page=1&sword=&uid=49)
+
+
+
 ## Structure
 ```bash
 MOSAIC
